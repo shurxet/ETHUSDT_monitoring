@@ -1,0 +1,8 @@
+venv/
+/pg_data
+.idea/
+.*_cache/
+__pycache__
+.pytest_cache
+*.db
+.coverage
